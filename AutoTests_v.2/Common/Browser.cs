@@ -4,10 +4,8 @@ using System.Configuration;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.Threading;
-using Bumblebee.Setup;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
-using OpenQA.Selenium.Support.UI;
 
 namespace AutoTests.Common
 {

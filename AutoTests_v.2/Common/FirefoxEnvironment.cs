@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading;
-using Bumblebee.Setup;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.Events;
@@ -10,7 +9,7 @@ namespace AutoTests.Common
     /// <summary>
     /// The local firefox environment.
     /// </summary>
-    public class LocalFirefoxEnvironment : ThreadLocal<IWebDriver>, IDriverEnvironment
+    public class LocalFirefoxEnvironment : ThreadLocal<IWebDriver>
     {
         /// <summary>
         /// The create web driver.

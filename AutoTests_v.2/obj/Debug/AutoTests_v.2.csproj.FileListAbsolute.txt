@@ -11,3 +11,15 @@ C:\Users\Алексей\documents\visual studio 2013\Projects\AutoTests_v.2\Auto
 C:\Users\Алексей\documents\visual studio 2013\Projects\AutoTests_v.2\AutoTests_v.2\obj\Debug\AutoTests_v.2.pdb
 C:\Users\Алексей\documents\visual studio 2013\Projects\AutoTests_v.2\AutoTests_v.2\bin\Debug\Bumblebee.dll
 C:\Users\Алексей\documents\visual studio 2013\Projects\AutoTests_v.2\AutoTests_v.2\bin\Debug\Bumblebee.xml
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\obj\Debug\AutoTests_v.2.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\obj\Debug\AutoTests_v.2.dll
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\obj\Debug\AutoTests_v.2.pdb
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\AutoTests_v.2.dll.config
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\AutoTests_v.2.dll
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\AutoTests_v.2.pdb
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\nunit.framework.dll
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\WebDriver.dll
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\WebDriver.Support.dll
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\nunit.framework.xml
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\WebDriver.xml
+C:\Users\Алексей\Documents\temp\Exercise-2\AutoTests_v.2\bin\Debug\WebDriver.Support.xml
